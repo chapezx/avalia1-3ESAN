@@ -1,8 +1,8 @@
-
-
 |Nome|RA|
+
 |-|-|
-|vitória|2026109204|
 
+|Vitória Faranhas Braga|2026109204|
 
+|Victor Gabriel Kovalski de Barros|2026108637|
 
